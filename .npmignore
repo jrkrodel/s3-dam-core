@@ -1,0 +1,9 @@
+.git
+.yarn
+src/*
+!src/types.ts
+clearLib.js
+.prettierignore
+.prettierrc
+tsconfig.json
+node_modules
